@@ -1,4 +1,4 @@
-# distancias entre caapitais brasileiras 
+# distancias entre capitais brasileiras 
 Tabela de distâncias terrestre entre capitais brasileiras
 que mostra a referida distância em km.
 
